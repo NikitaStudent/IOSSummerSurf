@@ -1,3 +1,3 @@
-# IOSSummerSurf
+# iOSSummerSchoolProject
 
-## привет мир, мой первый README
+![Demo](./img/app-example.gif)
